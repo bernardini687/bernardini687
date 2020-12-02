@@ -1,10 +1,9 @@
 ```
 #=======================================================================================
 #     USING:  js, rb, sh, ts, docker, nestjs, node, psql, rails, unix
-#      USED:  ex, exs, rs, deno, graphql, heroku, rabbitmq
-#  LEARNING:  computer science, computer networking
+#      USED:  ex, exs, deno, graphql, heroku, rabbitmq
+#  LEARNING:  rust
 #   CURIOUS:  iot, serverless
 #   READING:  the secret life of programs
-#   PLAYING:  tis-100, sudoku
 #=======================================================================================
 ```
