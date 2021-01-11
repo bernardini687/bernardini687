@@ -4,6 +4,6 @@
 #      USED:  deno, elixir, graphql, heroku, nestjs, rabbitmq
 #  LEARNING:  rust
 #   CURIOUS:  iot, serverless
-#   READING:  the secret life of programs
+#   READING:  the elephant in the brain
 #=======================================================================================
 ```
