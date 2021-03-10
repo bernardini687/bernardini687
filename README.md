@@ -4,6 +4,6 @@
 #      USED:  deno, elixir, graphql, heroku, nestjs, rabbitmq, rust
 #  LEARNING:  nand2tetris
 #   CURIOUS:  iot, serverless
-#   READING:  the art of unix programming
+#   READING:  the essential writings of ralph waldo emerson
 #=======================================================================================
 ```
