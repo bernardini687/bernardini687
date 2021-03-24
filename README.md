@@ -42,3 +42,11 @@ and this profile adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## 0.0.1 - 2014..2017
 
 - [NABA](https://www.naba.it) graduate in media design with honors
+
+---
+
+[github](https://github.com/bernardini687)  
+[linkedin](https://www.linkedin.com/in/oscar-bernardini-essm/)  
+[personal website](https://oscarbernardini.com/)  
+[medium](https://medium.com/@oscar.b)  
+bernardini687@gmail.com
