@@ -8,13 +8,12 @@ and this profile adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## Unreleased
 
 - Studying and practicing computer science along with the [Nand to Tetris](https://www.nand2tetris.org/) course
-- Playing with Deno and Rust
 
 ## 3.0.0 - 2020..today
 
 - Backend developer at [Mikamai](https://www.mikamai.com/)
   - Implemented the backend for [Gremobo](https://gremobo.com/) using Node, TypeScript, NestJS, GraphQL, Docker, PostgreSQL, AWS Lambda, AWS EventBridge and Elasticsearch
-  - [Finleap Connect](https://connect.finleap.com/switchkit/) Portfolio Switch Kit product developer using Rails, Mongo, React, Angular, Docker, Redis and GitLab
+  - [Finleap Connect](https://connect.finleap.com/switchkit/) product developer using Rails, Golang, Mongo, React, Angular, Docker, Redis and GitLab
 
 ## 2.2.0 - 2019..2020
 
