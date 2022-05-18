@@ -9,7 +9,8 @@ and this profile adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Backend developer at [Mikamai](https://www.mikamai.com/)
   - Implemented the backend for [Gremobo](https://gremobo.com/) using Node, TypeScript, NestJS, GraphQL, Docker, PostgreSQL, AWS Lambda, AWS EventBridge and Elasticsearch
-  - [Finleap Connect](https://connect.finleap.com/switchkit/) product developer using Rails, Golang, Mongo, React, Angular, Docker, Redis and GitLab
+  - [Finleap Connect](https://connect.finleap.com/switchkit/) product developer using Rails, Sidekiq, Golang, Mongo, React, Angular, Docker, Redis and GitLab
+  - [4Gifters](https://www.4gift.com/) product developer using Rails, Solidus, Sidekiq and PostgreSQL
 
 ## 2.2.0 - 2019..2020
 
@@ -32,7 +33,7 @@ and this profile adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## 1.0.1 - 2015..2018
 
-- Member of [Migma Collective](https://www.migmacollective.com/)
+- Member of and graphic designer for [Migma Collective](https://www.instagram.com/wearemigma/)
 
 ## 1.0.0 - 2014..2017
 
