@@ -11,6 +11,7 @@ and this profile adheres to [**Semantic Versioning**](https://semver.org/spec/v2
   - Implemented the backend for [**Gremobo**](https://gremobo.com/) using Node, TypeScript, NestJS, GraphQL, Docker, PostgreSQL, AWS Lambda, AWS EventBridge and Elasticsearch
   - [**Finleap Connect**](https://connect.finleap.com/switchkit/) product developer using Rails, Sidekiq, Golang, Mongo, React, Angular, Docker, Redis and GitLab
   - [**4Gifters**](https://www.4gift.com/) product developer using Rails, Solidus, Sidekiq and PostgreSQL
+  - Backend developer for an internal team working on a redesign of the [**Juice**](https://www.juice.it/) product using Node, TypeScript, ExpressJS, REST, Docker, Mongo, AWS
 
 ## 2.2.0 - 2019..2020
 
